@@ -17,7 +17,7 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route exact path='/' element={<LandingPage/>}></Route>
+          <Route exact path='/uga-scs' element={<LandingPage/>}></Route>
         </Routes>
       </Router>
     </div>

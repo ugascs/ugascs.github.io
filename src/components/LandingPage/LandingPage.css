@@ -1,6 +1,6 @@
 .master {
     height: 4000px;
-    background: linear-gradient(168deg, rgb(1, 6, 37) 0%, rgba(20,3,80,1) 33%, #ba1e6b 66%, #5344A9 70%, rgb(12, 17, 39) 100%);
+    background: linear-gradient(168deg, rgb(1, 6, 37) 0%, rgba(20,3,80,1) 30%, #ba1e6b 66%, #5344A9 70%, rgb(12, 17, 39) 100%);
     display: flex;
     flex-direction: column;
     z-index: 5;
