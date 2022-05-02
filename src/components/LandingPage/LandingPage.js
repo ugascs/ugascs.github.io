@@ -222,7 +222,7 @@ const LandingPage = () => {
                                 setShowCopy(true)
                                 setTimeout(() => setShowCopy(false), 1000)
                                 setTimeout(() => setShakeDiscord(0), 1000);
-                                navigator.clipboard.writeText('https://uga.zoom.us/j/99149149748?pwd=V2VFSjVmM1VJa3BtS1d6cURyQjdKdz09#success')
+                                navigator.clipboard.writeText('https://discord.com/invite/r6AKpx7')
                             }}
                             shakeDiscord={shakeDiscord}
                         >

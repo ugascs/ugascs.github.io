@@ -34,27 +34,27 @@ const Navigation = () => {
             <link href="https://fonts.googleapis.com/css2?family=K2D:wght@100;200;300&display=swap" rel="stylesheet"></link>
                 <div className='heading'>
                    <div className='menuItem' onClick={scrollToHome}>
-                        <NavLink className='menuItemText' to='/'>
+                        <NavLink className='menuItemText' to='/uga-scs'>
                             HOME
                         </NavLink>
                    </div>
                    <div className='menuItem' onClick={scrollToAbout}>
-                        <NavLink className='menuItemText' to='/'>
+                        <NavLink className='menuItemText' to='/uga-scs'>
                             ABOUT
                         </NavLink>
                    </div>
                    <div className='menuItem' onClick={scrollToCalendar}>
-                        <NavLink className='menuItemText' to='/'>
+                        <NavLink className='menuItemText' to='/uga-scs'>
                             CALENDAR
                         </NavLink>
                    </div>
                    <div className='menuItem' onClick={scrollToTeam}>
-                        <NavLink className='menuItemText' to='/'>
+                        <NavLink className='menuItemText' to='/uga-scs'>
                             TEAM
                         </NavLink>
                    </div>
                    <div className='menuItem' onClick={scrollToResources}>
-                        <NavLink className='menuItemText' to='/'>
+                        <NavLink className='menuItemText' to='/uga-scs'>
                             RESOURCES
                         </NavLink>
                    </div>
