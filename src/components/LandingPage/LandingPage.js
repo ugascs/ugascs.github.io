@@ -19,6 +19,9 @@ import icon_github from '../../assets/icon_github.jpg'
 import icon_discord from '../../assets/icon_discord.jpg'
 import icon_gmail from '../../assets/icon_gmail.jpg'
 import icon_zoom from '../../assets/icon_zoom.jpg'
+import icon_groupme from '../../assets/icon_groupme.jpg'
+import icon_instagram from '../../assets/icon_instagram.jpg'
+import icon_twitter from '../../assets/icon_twitter.jpg'
 
 // Aos and CSS
 import './LandingPage.css'
@@ -229,6 +232,41 @@ const LandingPage = () => {
                             <img className='discordImageWrapper' src={icon_discord} alt='discord logo'></img>
                                 <div className='linkText'>
                                     Discord
+                            </div>
+                        </div>
+                    </div>
+                    <div className='linksContainer'>
+                        <div className='linkWrapper'>
+                            <img className='zoomImageWrapper' src={icon_groupme} alt='groupme logo'></img>
+                            <div className='linkText'>
+                                <a 
+                                    className='githubLinkText' 
+                                    target='_blank' 
+                                    href='https://web.groupme.com/join_group/84888832/I8vsRDQg'>
+                                        GroupMe
+                                </a>
+                            </div>
+                        </div>
+                        <div className='linkWrapper'>
+                            <img className='zoomImageWrapper' src={icon_instagram} alt='instagram logo'></img>
+                            <div className='linkText'>
+                                <a 
+                                    className='githubLinkText' 
+                                    target='_blank' 
+                                    href='https://www.instagram.com/uga.scs/?hl=en'>
+                                        Instagram
+                                </a>
+                            </div>
+                        </div>
+                        <div className='linkWrapper'>
+                            <img className='zoomImageWrapper' src={icon_twitter} alt='twitter logo'></img>
+                            <div className='linkText'>
+                                <a 
+                                    className='githubLinkText' 
+                                    target='_blank' 
+                                    href='https://twitter.com/ugascs'>
+                                        Twitter
+                                </a>
                             </div>
                         </div>
                     </div>

@@ -13,6 +13,7 @@ import headshot_nicholas_kundin from '../../assets/headshot_nicholas_kundin.jpg'
 import headshot_jacob_glover from '../../assets/headshot_jacob_glover.jpg'
 import headshot_luke_lind from '../../assets/headshot_luke_lind.jpg'
 import headshot_hannah_brown from '../../assets/headshot_hannah_brown.jpg'
+import headshot_brycen_lee from '../../assets/headshot_brycen_lee.jpg'
 
 export const events = [
     {
@@ -48,7 +49,7 @@ export const headshotsRowOne = [
     },
     {
         id: 3,
-        src: headshot_dolphin,
+        src: headshot_barrett_batton,
         name: 'Barrett Sean Batton',
         title: 'VP of Operations'
     },
@@ -60,7 +61,7 @@ export const headshotsRowOne = [
     },
     {
         id: 5,
-        src: headshot_dolphin,
+        src: headshot_brycen_lee,
         name: 'Brycen Lee',
         title: 'VP of Alumni Relations'
     }

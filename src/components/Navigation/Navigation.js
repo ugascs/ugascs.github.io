@@ -16,11 +16,11 @@ const Navigation = () => {
     }
 
     const scrollToCalendar = () => {
-        window.scrollTo( { top: 1610, behavior: 'smooth' } )
+        window.scrollTo( { top: 1480, behavior: 'smooth' } )
     }
 
     const scrollToTeam = () => {
-        window.scrollTo( { top: 2400, behavior: 'smooth' } )
+        window.scrollTo( { top: 2300, behavior: 'smooth' } )
     }
 
     const scrollToResources = () => {
