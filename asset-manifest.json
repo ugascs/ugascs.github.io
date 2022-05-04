@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/uga-scs/static/css/main.b0b3c9d9.css",
+    "main.js": "/uga-scs/static/js/main.00a73c51.js",
+    "static/js/787.27ec3238.chunk.js": "/uga-scs/static/js/787.27ec3238.chunk.js",
+    "static/media/headshot_esteban_alarcon.jpg": "/uga-scs/static/media/headshot_esteban_alarcon.a2ae9d5586989939ecdf.jpg",
+    "static/media/puppy.png": "/uga-scs/static/media/puppy.ad16158ee245884f4c09.png",
+    "static/media/headshot_luke_lind.jpg": "/uga-scs/static/media/headshot_luke_lind.1582d49a8d5266eb68c8.jpg",
+    "static/media/headshot_hannah_brown.jpg": "/uga-scs/static/media/headshot_hannah_brown.b6af23c9c3cef1a26d6f.jpg",
+    "static/media/headshot_barrett_batton.jpg": "/uga-scs/static/media/headshot_barrett_batton.2ae360f6fee85d214916.jpg",
+    "static/media/headshot_zach_hall.jpg": "/uga-scs/static/media/headshot_zach_hall.5017eeb36953bee0e169.jpg",
+    "static/media/headshot_jacob_glover.jpg": "/uga-scs/static/media/headshot_jacob_glover.6f72f7c19a3919417faa.jpg",
+    "static/media/landing_page_world.png": "/uga-scs/static/media/landing_page_world.1daad8cf2be35e4ba44d.png",
+    "static/media/event_sample_one.jpeg": "/uga-scs/static/media/event_sample_one.fadc17176be24dfd0701.jpeg",
+    "static/media/icon_gmail.jpg": "/uga-scs/static/media/icon_gmail.897a817cfe207c82dcad.jpg",
+    "static/media/icon_github.jpg": "/uga-scs/static/media/icon_github.b95cae40cef4c93c0492.jpg",
+    "static/media/headshot_matthew_misenheimer.jpg": "/uga-scs/static/media/headshot_matthew_misenheimer.c6ece253d5d2a1d1e138.jpg",
+    "static/media/headshot_het_patel.jpg": "/uga-scs/static/media/headshot_het_patel.27677e0eb32452c1d045.jpg",
+    "static/media/headshot_brycen_lee.jpg": "/uga-scs/static/media/headshot_brycen_lee.ff1e562e9555f324716f.jpg",
+    "static/media/icon_instagram.jpg": "/uga-scs/static/media/icon_instagram.d54c3dd0bad4b7c6c62d.jpg",
+    "static/media/icon_groupme.jpg": "/uga-scs/static/media/icon_groupme.7e4a700bdef92c365ffa.jpg",
+    "static/media/headshot_dolphin.jpg": "/uga-scs/static/media/headshot_dolphin.89130f3b09b232a9ad0c.jpg",
+    "static/media/icon_twitter.jpg": "/uga-scs/static/media/icon_twitter.36086549e88203052758.jpg",
+    "static/media/headshot_trudy_chen.jpg": "/uga-scs/static/media/headshot_trudy_chen.f6c0ec0245a2d7c16f66.jpg",
+    "static/media/headshot_nicholas_kundin.jpg": "/uga-scs/static/media/headshot_nicholas_kundin.3eec629784159713e2a1.jpg",
+    "static/media/icon_zoom.jpg": "/uga-scs/static/media/icon_zoom.3ae6f6eb246fb8436750.jpg",
+    "index.html": "/uga-scs/index.html",
+    "main.b0b3c9d9.css.map": "/uga-scs/static/css/main.b0b3c9d9.css.map",
+    "main.00a73c51.js.map": "/uga-scs/static/js/main.00a73c51.js.map",
+    "787.27ec3238.chunk.js.map": "/uga-scs/static/js/787.27ec3238.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b3c9d9.css",
+    "static/js/main.00a73c51.js"
+  ]
+}
