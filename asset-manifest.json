@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d5c2c4e2.css",
-    "main.js": "/static/js/main.b31ea0e9.js",
+    "main.js": "/static/js/main.1955ba71.js",
     "static/js/787.27ec3238.chunk.js": "/static/js/787.27ec3238.chunk.js",
     "static/media/headshot_esteban_alarcon.jpg": "/static/media/headshot_esteban_alarcon.a2ae9d5586989939ecdf.jpg",
     "static/media/puppy.png": "/static/media/puppy.ad16158ee245884f4c09.png",
     "static/media/headshot_luke_lind.jpg": "/static/media/headshot_luke_lind.1582d49a8d5266eb68c8.jpg",
     "static/media/headshot_hannah_brown.jpg": "/static/media/headshot_hannah_brown.b6af23c9c3cef1a26d6f.jpg",
     "static/media/headshot_barrett_batton.jpg": "/static/media/headshot_barrett_batton.2ae360f6fee85d214916.jpg",
-    "static/media/KPMG.png": "/static/media/KPMG.d299354450d9240ae250.png",
     "static/media/headshot_zach_hall.jpg": "/static/media/headshot_zach_hall.5017eeb36953bee0e169.jpg",
     "static/media/headshot_jacob_glover.jpg": "/static/media/headshot_jacob_glover.6f72f7c19a3919417faa.jpg",
     "static/media/hack_hours.png": "/static/media/hack_hours.116fb3e24b7d87615782.png",
+    "static/media/SCSxAuger.png": "/static/media/SCSxAuger.17bf1aee6b74be72ac5e.png",
     "static/media/Schellman3GBM.png": "/static/media/Schellman3GBM.27a27c091eea9d9c1487.png",
     "static/media/landing_page_world.png": "/static/media/landing_page_world.1daad8cf2be35e4ba44d.png",
     "static/media/icon_gmail.jpg": "/static/media/icon_gmail.897a817cfe207c82dcad.jpg",
@@ -28,11 +28,11 @@
     "static/media/icon_zoom.jpg": "/static/media/icon_zoom.3ae6f6eb246fb8436750.jpg",
     "index.html": "/index.html",
     "main.d5c2c4e2.css.map": "/static/css/main.d5c2c4e2.css.map",
-    "main.b31ea0e9.js.map": "/static/js/main.b31ea0e9.js.map",
+    "main.1955ba71.js.map": "/static/js/main.1955ba71.js.map",
     "787.27ec3238.chunk.js.map": "/static/js/787.27ec3238.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5c2c4e2.css",
-    "static/js/main.b31ea0e9.js"
+    "static/js/main.1955ba71.js"
   ]
 }
