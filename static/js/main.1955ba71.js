@@ -13480,7 +13480,7 @@
         },
         ee = n.p + "static/media/SCSxAuger.17bf1aee6b74be72ac5e.png",
         te = n.p + "static/media/Schellman3GBM.27a27c091eea9d9c1487.png",
-        ne = n.p + "/static/media/hack_hours_2023.png",
+        ne = n.p + "static/media/hack_hours_2023.png",
         re =
           n.p +
           "static/media/headshot_esteban_alarcon.a2ae9d5586989939ecdf.jpg",
