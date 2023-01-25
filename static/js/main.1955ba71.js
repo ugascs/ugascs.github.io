@@ -13487,8 +13487,8 @@
         ae =
           n.p + "static/media/headshot_barrett_batton.2ae360f6fee85d214916.jpg",
         oe = n.p + "static/media/headshot_carson_bell.jpeg",
-        ie = n.p + "static/media/headshot_dolphin.89130f3b09b232a9ad0c.jpg",
-        le = n.p + "static/media/headshot_zach_hall.5017eeb36953bee0e169.jpg",
+        ie = n.p + "static/media/headshot_rugved_gudapati.jpeg",
+        le = n.p + "static/media/headshot_khoa_le.jpeg",
         ue =
           n.p +
           "static/media/headshot_matthew_misenheimer.c6ece253d5d2a1d1e138.jpg",
@@ -13538,14 +13538,14 @@
           {
             id: 1,
             src: le,
-            name: "Zach Hall",
-            title: "VP of Student Relations",
+            name: "Khoa Le",
+            title: "Officer of Operations, Web Development",
           },
           {
             id: 2,
             src: ue,
-            name: "Matthew Misenheimer",
-            title: "VP of Web Development",
+            name: "Kireeth Karunakaran",
+            title: "Officer of Marketing",
           },
           { id: 3, src: ie, name: "Malachi Brewer", title: "VP of Finance" },
           { id: 4, src: se, name: "Het Patel", title: "Officer of Operations" },
