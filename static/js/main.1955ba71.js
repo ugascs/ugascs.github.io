@@ -13486,8 +13486,7 @@
           "static/media/headshot_esteban_alarcon.a2ae9d5586989939ecdf.jpg",
         ae =
           n.p + "static/media/headshot_barrett_batton.2ae360f6fee85d214916.jpg",
-        oe =
-          n.p + "static/media/headshot_barrett_batton.2ae360f6fee85d214916.jpg",
+        oe = n.p + "static/media/headshot_carson_bell.jpeg",
         ie = n.p + "static/media/headshot_dolphin.89130f3b09b232a9ad0c.jpg",
         le = n.p + "static/media/headshot_zach_hall.5017eeb36953bee0e169.jpg",
         ue =
@@ -13519,8 +13518,8 @@
           {
             id: 3,
             src: oe,
-            name: "Barrett Sean Batton",
-            title: "VP of Operations",
+            name: "Carson Bell",
+            title: "Officer of Operations",
           },
           {
             id: 4,
@@ -13532,7 +13531,7 @@
             id: 5,
             src: he,
             name: "Brycen Lee",
-            title: "VP of Alumni Relations",
+            title: "VP of Finance",
           },
         ],
         ge = [
