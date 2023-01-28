@@ -13520,7 +13520,7 @@
             id: 3,
             src: oe,
             name: "Carson Bell",
-            title: "Officer of Operations",
+            title: "VP of Operations",
           },
           {
             id: 4,
