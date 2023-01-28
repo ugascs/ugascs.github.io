@@ -13487,6 +13487,7 @@
         ae =
           n.p + "static/media/headshot_barrett_batton.2ae360f6fee85d214916.jpg",
         oe = n.p + "static/media/headshot_carson_bell.jpeg",
+        xe = n.p + "static/media/headshot_parker_anderson.jpg",
         ie = n.p + "static/media/headshot_rugved_gudapati.jpeg",
         le = n.p + "static/media/headshot_khoa_le.jpeg",
         ue =
@@ -13496,8 +13497,8 @@
         ce =
           n.p +
           "static/media/headshot_nicholas_kundin.3eec629784159713e2a1.jpg",
-        fe =
-          n.p + "static/media/headshot_jacob_glover.6f72f7c19a3919417faa.jpg",
+        /*fe =
+          n.p + "static/media/headshot_jacob_glover.6f72f7c19a3919417faa.jpg",*/
         de = n.p + "static/media/headshot_luke_lind.1582d49a8d5266eb68c8.jpg",
         pe =
           n.p + "static/media/headshot_hannah_brown.b6af23c9c3cef1a26d6f.jpg",
@@ -13547,7 +13548,12 @@
             name: "Kireeth Karunakaran",
             title: "Officer of Marketing",
           },
-          { id: 3, src: ie, name: "Malachi Brewer", title: "VP of Finance" },
+          {
+            id: 3,
+            src: xe,
+            name: "Parker Anderson",
+            title: "Officer of Operations",
+          },
           { id: 4, src: se, name: "Het Patel", title: "Officer of Operations" },
           {
             id: 5,
@@ -13557,19 +13563,19 @@
           },
         ],
         ye = [
-          {
+          /*{
             id: 1,
             src: fe,
             name: "Jacob Glover",
             title: "Officer of Operations",
-          },
+          },*/
           {
-            id: 2,
+            id: 1,
             src: de,
             name: "Luke Lind",
             title: "Officer of Operations, Web Development",
           },
-          { id: 3, src: pe, name: "Hannah Brown", title: "Officer of Finance" },
+          { id: 2, src: pe, name: "Hannah Brown", title: "Officer of Finance" },
         ],
         be = n.p + "static/media/landing_page_world.1daad8cf2be35e4ba44d.png",
         we = n.p + "static/media/puppy.ad16158ee245884f4c09.png",
