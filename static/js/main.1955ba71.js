@@ -13487,7 +13487,7 @@
         ae =
           n.p + "static/media/headshot_barrett_batton.2ae360f6fee85d214916.jpg",
         oe = n.p + "static/media/headshot_carson_bell.jpeg",
-        xe = n.p + "static/media/headshot_parker_anderson.jpg",
+        xex = n.p + "static/media/headshot_parker_anderson.jpg",
         ie = n.p + "static/media/headshot_rugved_gudapati.jpeg",
         le = n.p + "static/media/headshot_khoa_le.jpeg",
         ue =
@@ -13550,7 +13550,7 @@
           },
           {
             id: 3,
-            src: xe,
+            src: xex,
             name: "Parker Anderson",
             title: "Officer of Operations",
           },
