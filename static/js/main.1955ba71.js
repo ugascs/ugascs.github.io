@@ -13512,7 +13512,7 @@
           {
             id: 2,
             src: ae,
-            name: "Barrett Sean Batton",
+            name: "Barrett Sean Batten",
             title: "Vice President",
           },
           {
