@@ -13490,16 +13490,14 @@
         xex = n.p + "static/media/headshot_parker_anderson.jpg",
         ie = n.p + "static/media/headshot_rugved_gudapati.jpeg",
         le = n.p + "static/media/headshot_khoa_le.jpeg",
-        ue =
-          n.p +
-          "static/media/headshot_matthew_misenheimer.c6ece253d5d2a1d1e138.jpg",
+        ue = n.p + "static/media/headshot_kireeth.jpg",
         se = n.p + "static/media/headshot_het_patel.27677e0eb32452c1d045.jpg",
         ce =
           n.p +
           "static/media/headshot_nicholas_kundin.3eec629784159713e2a1.jpg",
         /*fe =
           n.p + "static/media/headshot_jacob_glover.6f72f7c19a3919417faa.jpg",*/
-        de = n.p + "static/media/headshot_luke_lind.1582d49a8d5266eb68c8.jpg",
+        /*de = n.p + "static/media/headshot_luke_lind.1582d49a8d5266eb68c8.jpg",*/
         pe =
           n.p + "static/media/headshot_hannah_brown.b6af23c9c3cef1a26d6f.jpg",
         he = n.p + "static/media/headshot_brycen_lee.ff1e562e9555f324716f.jpg",
@@ -13569,13 +13567,13 @@
             name: "Jacob Glover",
             title: "Officer of Operations",
           },*/
-          {
+          /*{
             id: 1,
             src: de,
             name: "Luke Lind",
             title: "Officer of Operations, Web Development",
-          },
-          { id: 2, src: pe, name: "Hannah Brown", title: "Officer of Finance" },
+          },*/
+          { id: 1, src: pe, name: "Hannah Brown", title: "VP of Finance" },
         ],
         be = n.p + "static/media/landing_page_world.1daad8cf2be35e4ba44d.png",
         we = n.p + "static/media/puppy.ad16158ee245884f4c09.png",
