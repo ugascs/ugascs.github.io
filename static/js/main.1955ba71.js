@@ -13478,8 +13478,8 @@
             ],
           });
         },
-        ee = n.p + "static/media/SCSxAuger.17bf1aee6b74be72ac5e.png",
-        te = n.p + "static/media/RSM_Meeting_2023.png",
+        ee = n.p + "static/media/RSM_Meeting_2023.png",
+        te = n.p + "static/media/aws_2023.jpg",
         ne = n.p + "static/media/hack_hours_2023.png",
         re =
           n.p +
@@ -13504,9 +13504,9 @@
           n.p + "static/media/headshot_hannah_brown.b6af23c9c3cef1a26d6f.jpg",
         he = n.p + "static/media/headshot_brycen_lee.ff1e562e9555f324716f.jpg",
         ve = [
-          { id: 1, src: te, title: "RSM GBM", date: "January 18, 2023" },
+          { id: 1, src: te, title: "AWS x SCS", date: "February 8th, 2023" },
           { id: 2, src: ne, title: "Hack Hours", date: "Every Wednesday" },
-          { id: 3, src: ee, title: "SCS x Auger", date: "November 16, 2022" },
+          { id: 3, src: ee, title: "RSM GBM", date: "January 18, 2023" },
         ],
         me = [
           { id: 1, src: re, name: "Esteban Alarcon", title: "President" },
