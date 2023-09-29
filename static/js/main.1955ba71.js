@@ -289,12 +289,12 @@
                   return b.Date.now();
                 };
               e.exports = r;
-            }.call(
+            }).call(
               t,
               (function () {
                 return this;
               })()
-            ));
+            );
           },
           function (e, t) {
             (function (t) {
@@ -435,12 +435,12 @@
                   return y.Date.now();
                 };
               e.exports = n;
-            }.call(
+            }).call(
               t,
               (function () {
                 return this;
               })()
-            ));
+            );
           },
           function (e, t) {
             "use strict";
@@ -12021,7 +12021,7 @@
                             return new Date().getTime() - r;
                           }),
                           (r = new Date().getTime()));
-                    }.call(this));
+                    }).call(this);
                   },
                   2703: function (e, t, n) {
                     "use strict";
@@ -13482,11 +13482,9 @@
         te = n.p + "static/media/aws_2023.jpg",
         ne = n.p + "static/media/hack_hours_2023.png",
         re =
-          n.p +
-          "static/media/headshot_esteban_alarcon.a2ae9d5586989939ecdf.jpg",
-        ae =
           n.p + "static/media/headshot_barrett_batton.2ae360f6fee85d214916.jpg",
-        oe = n.p + "static/media/headshot_carson_bell.jpeg",
+        ae = n.p + "static/media/Parker.jpg",
+        oe = n.p + "static/media/Carson.jpg",
         xex = n.p + "static/media/headshot_parker_anderson.jpg",
         ie = n.p + "static/media/headshot_rugved_gudapati.jpeg",
         le = n.p + "static/media/headshot_khoa_le.jpeg",
@@ -13507,18 +13505,18 @@
           { id: 3, src: ee, title: "RSM GBM", date: "January 18, 2023" },
         ],
         me = [
-          { id: 1, src: re, name: "Esteban Alarcon", title: "President" },
+          { id: 1, src: re, name: "Barrett Sean Batten", title: "President" },
           {
             id: 2,
             src: ae,
-            name: "Barrett Sean Batten",
-            title: "Vice President",
+            name: "Parker Anderson",
+            title: "Executive Vice President",
           },
           {
             id: 3,
             src: oe,
             name: "Carson Bell",
-            title: "VP of Operations",
+            title: "Senior Vice President",
           },
           {
             id: 4,
