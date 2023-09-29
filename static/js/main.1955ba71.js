@@ -13517,7 +13517,7 @@
             id: 3,
             src: oe,
             name: "Carson Bell",
-            title: "VP of Operations",
+            title: "Senior Vice President",
           },
           {
             id: 4,
